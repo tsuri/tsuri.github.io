@@ -1,4 +1,4 @@
-#+title: Org Mode Example Site
+#+title: Tsuri
 
 * Overview
 
