@@ -26,15 +26,26 @@
 (setq org-publish-project-alist
       (list
        (list "org-site:main"
-             :recursive t
+             :recursive nil
              :base-directory "./content"
              :publishing-function 'org-html-publish-to-html
              :publishing-directory "./public"
-             :with-author nil           ;; Don't include author name
-             :with-creator t            ;; Include Emacs and Org versions in footer
-             :with-toc t                ;; Include a table of contents
-             :section-numbers nil       ;; Don't include section numbers
-             :time-stamp-file nil)))    ;; Don't include time stamp in file
+             :with-author nil ;; Don't include author name
+             :with-creator t ;; Include Emacs and Org versions in footer
+             :with-toc t     ;; Include a table of contents
+             :section-numbers nil ;; Don't include section numbers
+             :time-stamp-file nil)
+       (list "org-site:cocktails"
+             :recursive t
+             :base-directory "./content/coktails"
+             :publishing-function 'org-html-publish-to-html
+             :publishing-directory "./public/cocktails"
+             :with-author nil ;; Don't include author name
+             :with-creator t ;; Include Emacs and Org versions in footer
+             :with-toc t     ;; Include a table of contents
+             :section-numbers nil ;; Don't include section numbers
+             :time-stamp-file nil)
+       ))    ;; Don't include time stamp in file
 
 ;; Generate the site output
 (org-publish-all t)
