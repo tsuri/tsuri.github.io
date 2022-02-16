@@ -1,0 +1,148 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: Mai Tai
+#+date: <2021-12-11 Sat>
+#+author: Maurizio Vitale
+#+email: mav@idoniko
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.2 (Org mode 9.4.6)
+#+cite_export:
+
+* Short Description
+The Mai Tai is one of the most famous Tiki drinks in the
+world. Composed of rum, orange curaçao, fresh lime juice and orgeat (a
+nuanced almond syrup), it’s held sway over cocktail enthusiasts and
+Tiki aficionados for decades.
+
+* Long Description
+
+[ From https://www.youtube.com/watch?v=hsBZQuNaxNI ]
+
+Here's how to make the 1944 Trader Vic’s Mai Tai. The classic
+combination of Aged Jamaican Rum, Orange Curaçao, Orgeat, Rich Simple
+Syrup, Lime Juice and Mint for garnish was not the first Tiki
+Cocktail, but it is certainly the most popular Tiki Drink. And one
+that was designed to showcase a good rum.
+
+The story of the Mai Tai is inexorably linked to the history of Tiki
+bars and exotic drinks. It’s the tale of a professional rivalry
+between two California restaurateurs. Don the Beachcomber and Trader
+Vic’s bare a lot of the responsibility for making the Tiki world the
+phenomenon it became.
+
+Vic is often credited with the creation of this drink, especially as
+it is laid out here. Donn claimed to have invented it first. According
+to Tiki historian and founder of the Tiki bar, Latitude 29 in New
+Orleans, Beachbum Berry, in the convoluted story of the Mai Tai, both
+things may be true at the same time.
+
+Ernest Raymond Beaumont Gantt (who later changed his name to Donn
+Beach) opened the first Tiki bar in 1933 in the heart of Hollywood
+called Don the Beachcomber. A drink that was on his menu for a time
+was the Mai Tai Swizzle, though, according to Donn’s widow, it was
+“not one of his favorites.”
+
+The next year, in 1934, Vic Bergeron opened a bar in Oakland called
+Hinky Dink's. A few years later, in 1937, Vic paid a visit to Donn’s
+bar and was inspired by the joint’s Polynesian atmosphere, so much so,
+that shortly after, Vic revamped his bar to be Polynesian themed and
+he rebranded it as Trader Vic’s. There was a drink on Donn’s menu in
+1937, when Vic visited, called the Q.B. Cooler, the recipe for which,
+as with most of Donn’s drinks, was a closely guarded secret.
+
+Seven years later, in 1944, Vic created his Mai Tai. In the 1950’s,
+it’s popularity inspired a lot of people to claim ownership of it and
+Donn was one of them. Because of its demand, Donn was compelled to put
+the Mai Tai Swizzle back on his menu. Donn’s Mai Tai Swizzle does not
+taste much like Trader Vic’s.
+
+However, according to Mick Brownlee, a bartender at Don the
+Beachcomber for over a decade, Donn didn’t claim that Vic stole the
+Mai Tai Swizzle from him, but rather that he stole the Q.B. Cooler and
+rebranded that as the Mai Tai. This would seem like a wild rumor, if
+not for the fact that the Q.B. Cooler tastes amazingly like the Trader
+Vic’s Mai Tai. So, if Mick was right, if Vic did steal the flavor of
+the Q.B. Cooler after sampling it off of Donn’s menu in 1937, that
+would’ve been a helluva reverse engineering job and it would mean that
+Donn came up with the name and flavor, but Vic invented the drink and
+made it a phenomenon. Thus, the drink really would have two fathers.
+
+* Fun Facts
+
+- In Tahitian "Mai Tai", or rather "Maita’i," means "good"
+
+- A true Trader Vic's Mai Tai included a 17 year old Wray & Nephew
+  rum, of which there's only a few bottles left in the world,
+  potentially worth around $55.000 and probably the most sought-after
+  rum in the world. Read more insight about this rum [[https://cocktailwonk.com/2020/08/new-insights-into-wray-nephew-17.html][here]]
+
+
+* Recipes
+
+** a recipe interpreted by tiki bartender Brian Miller (is based on Trader Vic’s 1944 original)
+
+Mai Tai (Brian's spec)
+
+1/2 oz (15ml) white rum, agricole (preferably Neisson L’Esprit rhum)
+
+1/2 oz (15ml) gold rum (preferably Hamilton Jamaican gold)
+
+1/2 oz (15ml) aged rum (preferably El Dorado 15 year)
+
+1/2 oz (15ml) aged rum (preferably Appleton 12yr rum or Plantation Jamaica 2001)
+
+1/2 oz (15ml) Clement Creole Shrubb (or an orange curaçao like Pierre Ferrand Dry Curaçao)
+
+1 ounce lime juice 3/4 oz (20ml) orgeat (preferably Orgeat Works or
+Small Hand Foods)
+
+Garnish: umbrella, lime wheel and a sprig of mint (optional)
+
+Add all ingredients to a cocktail shaker. Add ice and shake until
+chilled. Strain over crushed ice into a rocks glass. Garnish with an
+umbrella, a lime wheel or spent lime shell and a sprig of mint
+(optional).
+
+** Leandro DiMonriva's favorite from this [[https://www.youtube.com/watch?v=vTqNLJG2ExE][Educated Barfly video]]
+
+Mai Tai (Leandro's spec)
+
+2oz (60ml) aged jamaican rum
+
+.75oz (20ml) orange curacao
+
+1oz (30ml) lime juice
+
+.5oz (15ml) orgeat
+
+Lime wheel and mint sprig garnish
+
+Combine all ingredients in a mixing tin. Add a little bit of crushed
+ice. Do a whip shake and dump in a classic Mai Tai glass or Tiki
+glass - or double rocks/old-fashioned glass if you don't have the
+former! Top off with crushed ice and garnish.
+
+** Mai Tai (Distinguished Spirits)
+
+2 oz Rum (or split base Jamaican and Martinique, or 1.5 oz home-aged overproof Rum, 0.5 oz water)
+
+0.75 oz Lime Juice
+
+0.5 oz Curaçao
+
+0.25 oz Orgeat
+
+0.25 oz Rich Simple Syrup
+
+garnish Mint Sprig
+
+garnish Lime Shell
+
+Shake with 12 oz crushed ice and 3-4 agitator cubes. Slap rim of your
+glass with Mint. Pour unstrained into chilled double Old Fashioned
+glass. Garnish with lime shell and mint sprig.
