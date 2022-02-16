@@ -4,7 +4,8 @@
 
 This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
 
-Here is a link to my [[./cocktails/something.org][Cocktails]].
+[[./neo/neo.org][Emacs Configuration]].
+[[./cocktails/cocktails.org][Cocktails]].
 
 * Links
 
