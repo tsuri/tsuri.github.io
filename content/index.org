@@ -1,10 +1,10 @@
-#+title: Tsuri
+#+title: Air in the Cloud
 
 * Overview
 
 This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
 
-Here is a link to my [[./Emacs.org][Emacs configuration]].
+Here is a link to my [[./cocktails/something.org][Cocktails]].
 
 * Links
 
